@@ -1,0 +1,12 @@
+.recipe {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  background: blanchedalmond;
+  border-radius: 10px;
+  box-shadow: 5px 10px 20px gray;
+  margin: 20px;
+  min-width: 40%;
+  padding: 10px;
+}
